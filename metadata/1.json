@@ -1,0 +1,10 @@
+{
+  "name": "USD8 Booster — 1% Cover Score",
+  "description": "Holding this NFT grants a 1% boost to your USD8 cover score on claim. See https://usd8.fi/boosters.html for details.",
+  "image": "https://usd8.fi/assets/booster.png",
+  "external_url": "https://usd8.fi/boosters.html",
+  "attributes": [
+    { "trait_type": "Boost", "value": "1%" },
+    { "trait_type": "Tier", "value": "Standard" }
+  ]
+}
